@@ -1,0 +1,8 @@
+#' @import ggplot2
+#' @import showtext
+#' @importFrom showtext font_add_google showtext_auto
+#' @export theme_neo_brutalist
+#' @export theme_pastel_minimal
+#' @export theme_dark_dashboard
+#' @export theme_flat_fun
+NULL
